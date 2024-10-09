@@ -14,4 +14,3 @@ app.use('/users', userRoutes);
 
 // Export the express app
 module.exports = app;
-
